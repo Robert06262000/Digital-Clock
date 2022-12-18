@@ -1,0 +1,10 @@
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital Clock.csprojAssemblyReference.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Digital Clock\obj\Debug\Digital Clock.pdb
